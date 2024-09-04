@@ -29,12 +29,12 @@ At DevDuo, we believe in:
 
 ## Let's Collaborate 🤝
 
-Got a project in mind? View our [website](devduo.ru) and get a quote, or just [mail](mailto:gaargirov@edu.hse.ru) us and let's build something amazing together!
+Got a project in mind? View our [website](devduo.ru) and get a quote, or just [mail](mailto:devduo.agency@ya.ru) us and let's build something amazing together!
 
 ---
 
 **Find us on**:
-- [GitHub](https://github.com/DevDuo)
+- [GitHub](https://github.com/DevDuoCO)
 
 ---
 
